@@ -258,4 +258,17 @@ La víctima tiene configurado el gateway del atacante (MitM exitoso).
 
 ---
 
+## Video Demostración
+
+🎬 [Ver ataque en acción en LinkedIn](https://www.linkedin.com/posts/branyel_cybersecurity-scapy-ethicalhacking-activity-7427841514501931008-K_Dr?utm_source=share&utm_medium=member_desktop&rcm=ACoAABsCOCgBmInY01B3o3CsMPOPTiELTAwgkbs)
+
+---
+
+## Autor
+
+**Branyel Pérez**  
+🔗 [LinkedIn](https://www.linkedin.com/in/branyel/)
+
+---
+
 **Disclaimer:** Este material es parte de un ejercicio académico supervisado. El autor no se responsabiliza por el uso indebido de este código.
